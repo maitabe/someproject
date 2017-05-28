@@ -1,0 +1,24 @@
+
+
+.form-container {
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+/*.active {
+	color: red;
+	font-weight: bolder;
+}*/
+
+.link-right {
+	float: right;
+}
+
+.form-custom {
+	margin-bottom: 60px;
+}
+
+.col-lg-6 .input-group{
+	float: right;
+    width: 65%;
+}
